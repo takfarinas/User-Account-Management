@@ -1,0 +1,4 @@
+{
+  "message": "Validation failed for argument [0] in public com.technical.test.resource.UserIdResource com.technical.test.controller.UserController.create(com.technical.test.resource.UserResource): [Field error in object 'userResource' on field 'name': rejected value [null]; codes [NotNull.userResource.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [userResource.name,name]; arguments []; default message [name]]; default message [must not be null]] ",
+  "details": "uri=/api/user"
+}

@@ -1,0 +1,4 @@
+{
+  "message": "create.userResource: User not allowed to create account",
+  "details": "uri=/api/user"
+}

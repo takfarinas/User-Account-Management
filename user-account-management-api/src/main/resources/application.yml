@@ -1,0 +1,14 @@
+server:
+  servlet.context-path: /user-account-management
+management:
+  endpoints:
+    enabled-by-default: true
+  endpoint:
+    info:
+      enabled: true
+    health:
+      enabled: true
+info:
+  app:
+    name: User Account Management Api
+    description: This Apis is designed to manage users accounts
