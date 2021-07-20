@@ -1,6 +1,6 @@
 # User Account Management
 
-#Building project
+## Building project
 To build project run the command: **mvn clean install** in the root project directory
 
 ## The module user-account-management-api :
